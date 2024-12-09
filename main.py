@@ -177,9 +177,11 @@ for posicion in posiciones_cpu:
 print("Tablero CPU")
 for fila in tablero_cpu_show:    
     print(" ".join(fila))
+'''
 print("Tablero CPU chuleta")
 for fila in tablero_oculto:    
     print(" ".join(fila))
+'''
 '''
 # El incio de la partida se sortea, se da la oportunidad al P1 de elegir lado de la moneda, si acierta empezará
 print("Vamos a sortear el inicio, por favor elige...")
